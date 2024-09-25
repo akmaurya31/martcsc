@@ -9,13 +9,14 @@ date_default_timezone_set('America/Los_Angeles');
 $dbhost = 'localhost';
 
 // Database Name
-$dbname = 'ecommerceweb1';
+// $dbname = 'ecommerceweb1';
+$dbname = 'martcsc';
 
 // Database Username
-$dbuser = 'root';
+$dbuser = 'admin';
 
 // Database Password
-$dbpass = 'root@123';
+$dbpass = 'Luxyaragroup';
 
 // Defining base url
 define("BASE_URL", "");
