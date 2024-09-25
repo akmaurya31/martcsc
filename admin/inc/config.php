@@ -6,7 +6,7 @@ ini_set('error_reporting', E_ALL);
 date_default_timezone_set('America/Los_Angeles');
 
 // Host Name
-$dbhost = 'localhost';
+$dbhost = 'mydb.cj2aycaoyu63.us-west-1.rds.amazonaws.com';
 
 // Database Name
 // $dbname = 'ecommerceweb1';
